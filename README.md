@@ -1,4 +1,4 @@
-# Starter Flask Template 
+# Flask Template Starter
 This source code repository is made as a template (**ready-to-use**) for **Heroku** auto deployment for Flask App(s).
 
 ## Local Run-Build
